@@ -1,0 +1,13 @@
+﻿node_modules/
+__pycache__/
+*.pyc
+*.zip
+web/*check*.cjs
+web/*bound*.cjs
+web/*bounds*.cjs
+web/*verify*.cjs
+web/*inspect*.cjs
+web/*pathcheck*.cjs
+web/*check*.png
+web/*verified*.png
+web/*loaded*.png
